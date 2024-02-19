@@ -1,0 +1,18 @@
+{
+  "employee": {
+    "Name": "John Doe",
+    "Mail": "john.doe@example.com",
+    "Mobile": "123-456-7890"
+  },
+  "qualifications": [
+    {
+      "qualification": "B. Tech, Malla Reddy University, Computer Science And Engineering, CGPA - 9.21"
+    },
+    {
+      "qualification": "Intermediate, Narayana Junior College, MPC, Percentage - 99.2"
+    },
+    {
+      "qualification": "High School , SJS public school , Percentage - 93.3 "
+    }
+  ]
+}
